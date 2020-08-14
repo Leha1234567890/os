@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597401780 source:c:\users\leha\documents\os\index.cpp
+	<conio.h>
+	<cstdlib>
+

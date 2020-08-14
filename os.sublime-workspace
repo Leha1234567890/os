@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"food"
+			],
+			[
+				"of",
+				"o:f\tObject Method"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"t",
+				"tfoot\tTag"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"c",
+				"cstdlib"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"d",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"e",
+				"evaluate"
+			],
+			[
+				"f",
+				"func"
+			],
+			[
+				"g",
+				"go"
+			],
+			[
+				"p",
+				"digraph\tobject"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"eval",
+				"evalError"
+			],
+			[
+				"div",
+				"divisors"
+			],
+			[
+				"typ",
+				"typec"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"de",
+				"decodeMorse"
+			],
+			[
+				"en",
+				"enable"
+			],
+			[
+				"for",
+				"footer\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"Project: Add Folder"
+			],
+			[
+				"pr",
+				"Project: Add Folder"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Leha/Documents/os/index.cpp",
+		"/C/Users/Leha/Documents/os/os.sublime-project",
+		"/C/Users/Leha/Documents/my/mom/анкета на еду.html",
+		"/C/Users/Leha/Documents/my/mom/main.css",
+		"/C/Users/Leha/Documents/os/main.cpp",
+		"/C/Users/Leha/Documents/my/mom/cern.html",
+		"/C/Users/Leha/Documents/os/assets/app.json",
+		"/C/Users/Leha/Documents/Publii/sites/progpy/output/sitemap.xml",
+		"/C/Users/Leha/Documents/index.cpp",
+		"/C/Users/Leha/index.cpp",
+		"/C/Users/Leha/Documents/PY-proj/smth4.py",
+		"/C/Users/Leha/Documents/PY-proj/snake.py",
+		"/C/Users/Leha/Documents/lang/README.txt",
+		"/C/Users/Leha/Documents/lang/morse.py",
+		"/C/Users/Leha/Documents/PY-proj/calculator.py",
+		"/C/Users/Leha/Documents/lang/usgr",
+		"/C/Users/Leha/Documents/my/play/персонажи&союзники&враги.odt",
+		"/C/Users/Leha/Documents/lang/index.java",
+		"/E/Саша/Main.java",
+		"/C/Users/Leha/Documents/lang/TYPE.md",
+		"/E/Саша/index.h",
+		"/C/Users/Leha/Documents/java/TextEditor/TextEditor.bat",
+		"/C/Users/Leha/Documents/scheme/fact.scm",
+		"/C/Users/Leha/Documents/web/TextEditor.html",
+		"/E/Саша/index.html",
+		"/C/Users/Leha/Documents/PY-proj/space_invaders.py",
+		"/C/Users/Leha/Documents/PY-proj/fight/fight2.py",
+		"/C/Users/Leha/Documents/PY-proj/fight.py",
+		"/D/дети/работа/сайт/my/ask.html",
+		"/C/Users/Leha/Documents/PY-proj/test.py",
+		"/C/Users/Leha/Documents/web/ancet.html",
+		"/C/Users/Leha/Documents/PY-proj/hw.py",
+		"/C/Users/Leha/Documents/PY-proj/parser.py",
+		"/C/Users/Leha/Documents/PY-proj/non-repeat.py",
+		"/C/Users/Leha/Documents/lang/ET.js",
+		"/C/Users/Leha/Documents/PY-proj/greed.py",
+		"/C/Users/Leha/Documents/PY-proj/anagrams.py",
+		"/C/Users/Leha/Documents/PY-proj/rgb-yo-hex.py",
+		"/C/Users/Leha/Documents/PY-proj/divisors.py",
+		"/C/Users/Leha/Documents/PY-proj/parenstest.py",
+		"/C/Users/Leha/Documents/PY-proj/aliens.py",
+		"/C/Users/Leha/Documents/PY-proj/test2.py",
+		"/C/Users/Leha/AppData/Local/Temp/7s0g0919.bmp",
+		"/C/Users/Leha/Downloads/python-3.8.3.exe",
+		"/C/Users/Leha/Documents/PY-proj/hw2.py",
+		"/E/web/root/mail2.php",
+		"/E/Sitemake/themes/perfect/visual-override.js",
+		"/E/bookmarks.html",
+		"/E/cpp-projects/CheerfulWarlikeRange/server.cpp",
+		"/E/cpp-projects/CheerfulWarlikeRange/client.cpp",
+		"/D/web/root/compiler/index.html",
+		"/D/web/root/compiler/result.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "os.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
